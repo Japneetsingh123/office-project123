@@ -10,8 +10,8 @@ To get started with the project in your local development environment, follow th
 Clone the repository to your local machine.
 https://github.com/Japneetsingh123/Office-projects.git
 Open the cloned folder in your preferred code editor, install the required dependencies by running the following command in the terminal:
-npm install
+
 Start the development server by running the following command:
-npm run build
+
 npm start
 You are now ready to go!
